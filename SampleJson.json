@@ -1,0 +1,11 @@
+[
+  {
+    "status": "success",
+    "message": "Hotspot details found!",
+    "hotspot": "",
+    "mode": "destination_list"
+  },
+  {
+    "destDefaultRadius": "750"
+  }
+]
